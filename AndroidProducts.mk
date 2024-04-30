@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_bahamut.mk
+    $(LOCAL_DIR)/derp_bahamut.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_bahamut-user \
-    lineage_bahamut-userdebug \
-    lineage_bahamut-eng
+    derp_bahamut-user \
+    derp_bahamut-userdebug \
+    derp_bahamut-eng
