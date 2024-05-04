@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/derp_bahamut.mk
+    $(LOCAL_DIR)/spark_bahamut.mk
 
 COMMON_LUNCH_CHOICES := \
-    derp_bahamut-user \
-    derp_bahamut-userdebug \
-    derp_bahamut-eng
+    spark_bahamut-user \
+    spark_bahamut-userdebug \
+    spark_bahamut-eng
