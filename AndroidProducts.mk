@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/awaken_bahamut.mk
+    $(LOCAL_DIR)/cipher_bahamut.mk
 
 COMMON_LUNCH_CHOICES := \
-    awaken_bahamut-user \
-    awaken_bahamut-userdebug \
-    awaken_bahamut-eng
+    cipher_bahamut-user \
+    cipher_bahamut-userdebug \
+    cipher_bahamut-eng
