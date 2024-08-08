@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/spark_bahamut.mk
+    $(LOCAL_DIR)/awaken_bahamut.mk
 
 COMMON_LUNCH_CHOICES := \
-    spark_bahamut-user \
-    spark_bahamut-userdebug \
-    spark_bahamut-eng
+    awaken_bahamut-user \
+    awaken_bahamut-userdebug \
+    awaken_bahamut-eng
