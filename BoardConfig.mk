@@ -20,7 +20,7 @@ include device/sony/sm8150-common/BoardConfigCommon.mk
 DEVICE_PATH := device/sony/bahamut
 
 # Display
-TARGET_SCREEN_DENSITY := 420
+TARGET_SCREEN_DENSITY := 465
 
 BOARD_KERNEL_CMDLINE += buildproduct=bahamut
 
